@@ -1,0 +1,3 @@
+生成github repository的key：ssh-keygen -t rsa -C "yuyang13569@163.com"
+Linux拓展屏：xrandr --output eDP-1-1 --right-of DP-1-1 --auto
+
